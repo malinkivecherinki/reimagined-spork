@@ -14,3 +14,9 @@ function fetch(url) {
 }
 
 module.exports = { fetch };
+
+
+// Update 25
+function newFunction25() {
+    return 25;
+}
